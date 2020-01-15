@@ -1,0 +1,15 @@
+body{
+	background-color: white;
+}
+#alarmbox{
+	width: 300px;
+	height: 200px;
+	
+}
+
+#txt{
+	color: black;
+	font-size: 150px;
+	text-align: center;
+	
+}
